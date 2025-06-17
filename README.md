@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bux</h1>
-<h3 align="center">🚀 A Passionate Backend Developer from Pakistan</h3>
+<h3 align="center">🚀 Passionate Java Backend Developer | Spring Boot Enthusiast | API Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadbux&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,61 +7,61 @@
 
 ---
 
-### 🌱 About Me
+### 👨‍💻 About Me
 
-- 💻 I specialize in **Java, JSP/Servlets, Hibernate, Spring Boot, and MySQL**
-- 🔭 I’m currently working on:
-  - A **Spring Boot REST API** for an Online Bookstore
-  - A **Task Manager App** using JSP and JDBC
-- 🌱 I’m currently learning **Spring Security, JWT, Docker**
-- 📫 Contact me at: **buxmuhammad792@gmail.com**
-- ⚡ Fun fact: I love debugging more than writing code!
-
----
-
-### 🧰 Tech Stack & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=apachetomcat&logoColor=white)
+- 🧠 Backend Developer focused on scalable, clean architecture using **Java**, **Spring Boot**, and **Hibernate**
+- 🔧 Currently building:
+  - 📘 A RESTful **Online Bookstore API** with secure authentication (JWT)
+  - ✅ A **Task Management App** using Servlets & JSP
+- 🚀 Learning DevOps tools: **Spring Security**, **JWT**, and **Docker**
+- 📫 Reach out: **buxmuhammad792@gmail.com**
+- 🧩 Fun fact: I treat bugs as puzzles, not problems.
 
 ---
 
-### 📂 My Projects
+### 🛠️ Tech Stack & Tools
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| 🛒 **Online Bookstore** | REST API with book CRUD, orders & JWT Auth | Spring Boot, Hibernate, MySQL | [View on GitHub](https://github.com/muhammadbux/online-bookstore) |
-| ✅ **Task Manager App** | Manage user tasks with status & deadlines | JSP, Servlet, JDBC | [View on GitHub](https://github.com/muhammadbux/task-manager) |
-| 🎓 **Student Management System** | Students + Course Enrollment (Admin Panel) | Hibernate, Servlet, MySQL | [View on GitHub](https://github.com/muhammadbux/student-management) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlet-4B8BBE?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📁 Featured Projects
+
+| 🧩 Project | 💡 Description | ⚙️ Stack | 🔗 Link |
+|-----------|----------------|----------|---------|
+| **Online Bookstore** | RESTful API with books, orders & JWT authentication | Spring Boot, Hibernate, MySQL | [View Repo](https://github.com/muhammadbux/online-bookstore) |
+| **Task Manager App** | JSP-based app to manage tasks by status, priority, deadline | JSP, Servlets, JDBC | [View Repo](https://github.com/muhammadbux/task-manager) |
+| **Student Management System** | Admin dashboard to manage students and course enrollments | Hibernate, Servlets, MySQL | [View Repo](https://github.com/muhammadbux/student-management) |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbux&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbux&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbux&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbux&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/your-link" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://fb.com/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -69,6 +69,11 @@
 
 ### 📄 Resume
 
-📌 [Download Resume](#) — *(Update this link once your resume is uploaded)*
+📌 [Download My Resume](#) *(Upload your resume to your GitHub repo or use a Google Drive link)*
+
+---
+
+### 🧠 Quote I Live By
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
 ---
