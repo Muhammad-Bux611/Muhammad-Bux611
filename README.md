@@ -1,26 +1,81 @@
-## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Muhammad+Bux!;Java+Backend+Developer+%7C+Spring+Boot+Specialist;Loves+REST+APIs+%7C+Hibernate+%7C+MySQL" alt="Typing SVG" />
+</h1>
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadbux&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
 
+---
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+### 💡 About Me
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+- 🔧 I build solid backend systems using **Java**, **JSP/Servlet**, **Spring Boot**, and **Hibernate**
+- 📚 Currently learning **Spring Security**, **JWT**, and **Docker**
+- 📘 Projects in progress:
+  - 🛒 Online Bookstore REST API
+  - ✅ Task Manager using JSP & JDBC
+- ✉️ Contact me: **buxmuhammad792@gmail.com**
+- 🎯 Fun fact: I love fixing bugs more than writing code 🔍🐞
 
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+---
 
+### 🧰 Tech Stack & Tools
 
-<h2>📬 Contact</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300788C.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-%23E34F26.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlets-%234B8BBE.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-Feel free to reach me through the below handles if you'd like to contact me.
+---
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+### 📁 Projects Showcase
+
+| 🚀 Project | 💡 Description | 🛠 Tech | 🔗 Link |
+|-----------|----------------|---------|---------|
+| 🛒 **Online Bookstore** | Secure API for books, orders, users (with JWT auth) | Spring Boot, Hibernate, MySQL | [GitHub Repo](https://github.com/muhammadbux/online-bookstore) |
+| ✅ **Task Manager** | Web app to manage daily tasks by users | JSP, Servlets, JDBC | [GitHub Repo](https://github.com/muhammadbux/task-manager) |
+| 🎓 **Student Management** | Admin dashboard to manage student data | Hibernate, Servlets, MySQL | [GitHub Repo](https://github.com/muhammadbux/student-management) |
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbux&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbux&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📄 Resume
+
+📌 [Download Resume](#) *(Upload your PDF in this repo or Google Drive and replace this link)*
+
+---
+
+### 💬 Quote I Live By
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
+> — **Harold Abelson**
+
